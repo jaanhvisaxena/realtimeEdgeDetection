@@ -68,3 +68,16 @@
 - FPS is capped around 15–16 for balanced performance
 - Shader switching and rendering are handled efficiently using OpenGL
 - App is optimized for clarity and modular design
+
+
+## Build & Run Success
+![BUILD SUCCESSFUL](buildSuccessful.png)
+- Project builds successfully in **Android Studio Hedgehog | JDK 17**
+- Uses **NDK + OpenCV** integration (tested on Android 10+)
+- Real-time rendering verified on physical device (15 FPS)
+- APK installs and runs with:
+    - Live camera feed
+    - Edge detection via native OpenCV
+    - Real-time OpenGL rendering
+    - Shader switching works as expected
+  
