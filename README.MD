@@ -80,4 +80,7 @@
     - Edge detection via native OpenCV
     - Real-time OpenGL rendering
     - Shader switching works as expected
-  
+
+##  Download
+
+You can download the latest APK from the [GitHub Releases page](https://github.com/jaanhvisaxena/realtimeEdgeDetection/releases/tag/v1.0).
